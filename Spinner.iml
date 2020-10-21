@@ -17,13 +17,11 @@
     <orderEntry type="module-library">
       <library name="swt.jar">
         <CLASSES>
-          <root url="file:///SWT_64bit/swt.jar" />
+          <root url="jar://C:/Program Files/Java/swt/swt.jar!/" />
         </CLASSES>
-        <JAVADOC>
-          <root url="http://help.eclipse.org/stable/nftopic/org.eclipse.platform.doc.isv/reference/api/" />
-        </JAVADOC>
+        <JAVADOC />
         <SOURCES>
-          <root url="file:///SWT_64bit/src.zip" />
+          <root url="jar://C:/Program Files/Java/swt/src.zip!/" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -34,7 +32,7 @@
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$MODULE_DIR$/../SWT_64bit/src.zip!/" />
+          <root url="jar://C:/Program Files/Java/swt/src.zip!/" />
         </SOURCES>
       </library>
     </orderEntry>
